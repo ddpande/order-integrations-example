@@ -1,5 +1,6 @@
 const axios = require('axios');
 const main_url = "https://beta.rewardplus-staging.com/"
+/**save you token in secret folder */
 const token = "156a48c8-eb09-4d06-81ae-d730ab7c7207";
 
 const express = require('express');

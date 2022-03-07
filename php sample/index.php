@@ -12,6 +12,7 @@
     <?php
 
     $GLOBALS['main_url'] = "https://beta.rewardplus-staging.com/";
+    /**save you token in secret folder */
     $GLOBALS['token'] = "156a48c8-eb09-4d06-81ae-d730ab7c7207";
 
     /** CURL GET */
